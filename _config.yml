@@ -1,4 +1,4 @@
-name: purpletrout
+name: thecommune
 favicon: null
 layout_spectrum: 0.5892306340392679
 typography_spectrum: 0.6506883190013468
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#1e1e1c'
+    - '#dfdbd2'
+    - '#b49379'
+    - '#715d4b'
+    - '#92392e'
   brandStrength: 0.9322754314634949
   lightness: 0.9392338718753308
   saturation: 0.46958595770411193
